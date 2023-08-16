@@ -3,3 +3,4 @@ Colombia
 Peru
 Argentina
 Bolivia
+Paraguay
