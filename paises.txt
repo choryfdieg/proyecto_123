@@ -2,3 +2,4 @@ Mexico
 Colombia
 Peru
 Argentina
+Bolivia
